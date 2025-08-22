@@ -97,4 +97,10 @@ a:hover {
   .info {
     max-width: 100%;
   }
+  
+.linha-projetos {
+  border: none;
+  border-top: 1px solid #000000;
+  width: 500px;
+  margin: 20px 0;
 }
